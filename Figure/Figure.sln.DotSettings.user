@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=475186f4_002D5286_002D4d88_002D9c74_002D812a8818881e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Circle_True_1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AA50E5BC-A1D1-4218-8303-787EBD851C24::net6.0::Tests.CircleTest.Circle_True_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=acbb6cf8_002D5d70_002D4f54_002D8802_002Ddfa9a8eebc25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Circle_True_1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AA50E5BC-A1D1-4218-8303-787EBD851C24::net6.0::Tests.CircleTest.Circle_True_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6fe59dc_002D210d_002D4823_002D9e2a_002D6bb11597f149/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Circle_True_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AA50E5BC-A1D1-4218-8303-787EBD851C24::net6.0::Tests.CircleTest.Circle_True_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
